@@ -4,12 +4,12 @@ import CartWidget from './CartWidget'
 const Navbar = () => {
   return (
     <div className='cabeza'> 
-     <div class="pp">
-          <p class="ppp">rincon del cine</p>
+     <div className="pp">
+          <p className="ppp">rincon del cine</p>
     </div>
-    <div id="buscador3" class="buscar">
-          <input id="buscador2" class="buscador" type="text" name="buscar" />
-          <button id="boton3" class="barra">buscar</button>
+    <div id="buscador3" className="buscar">
+          <input id="buscador2" className="buscador" type="text" name="buscar" />
+          <button id="boton3" className="barra">buscar</button>
         </div>
       <nav>
           <i className="fa-solid fa-bars"></i>

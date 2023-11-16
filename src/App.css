@@ -15,7 +15,7 @@
   flex-wrap: wrap;
   justify-content: center;
   text-align: center;
-  gap: 40px;
+  gap: 20px;
   margin-top: 10px;
 }
 .cabeza .pp {
@@ -42,8 +42,8 @@
   color: #75fb4c;
 }
 .cabeza .buscar .buscador {
-  width: 300px;
-  height: 30px;
+  width: 200px;
+  height: 25px;
 }
 .cabeza nav .fa-bars {
   justify-content: 0;
@@ -52,15 +52,15 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: left;
-  gap: 30px;
+  gap: 25px;
 }
 .cabeza nav .enlaces li a {
   text-decoration: none;
-  font-size: 30px;
+  font-size: 25px;
   color: white;
 }
 .cabeza nav .enlaces li a:hover {
-  padding: 0.6em 1.4em;
+  padding: 0.4em 1.2em;
   border: 2px solid #75fb4c;
   position: relative;
   overflow: hidden;
@@ -104,8 +104,8 @@ body {
 }
 
 h1 {
-  font-size: 40px;
-  color: white;
+  font-size: 30px;
+  color:white;
 }
 
 h2 {

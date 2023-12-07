@@ -15,10 +15,9 @@ const Navbar = () => {
           <i className="fa-solid fa-bars"></i>
           <ul className="enlaces">
             <li><a href="">Inicio</a></li>
-            <li><a href="">Nosotros</a></li>
-            <li><a href="">Peliculas</a></li>
-            <li><a href="">Series</a></li>
-            <li><a href="">Anime</a></li>
+            <li><a href="">Terror</a></li>
+            <li><a href="">Accion </a></li>
+            <li><a href="">Romance</a></li>
             <li><a href=""><CartWidget /></a></li>
           </ul>
         </nav>

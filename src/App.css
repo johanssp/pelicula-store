@@ -54,7 +54,7 @@
   justify-content: left;
   gap: 25px;
 }
-.cabeza nav .enlaces li a {
+.cabeza nav .enlaces .nv {
   text-decoration: none;
   font-size: 25px;
   color: white;

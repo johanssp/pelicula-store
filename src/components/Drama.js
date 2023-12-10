@@ -5,7 +5,7 @@ const Drama = () => {
   const { id } = useParams();
   return (
     <div>
-      <h3>este producto es el id : {id}</h3>
+      <h2>este producto es el id : {id}</h2>
     </div>
   );
 };

@@ -17,11 +17,19 @@ const Navbar = () => {
       <nav>
         <i className="fa-solid fa-bars"></i>
         <ul className="enlaces">
-          <Link to="/">inicio</Link>
-          <Link to="/category/Terror.js">Terror</Link>
-          <Link to="/category/Accion.js">Accion</Link>
-          <Link to="/category/Drama.js">Drama</Link>
-          <Link to="">
+          <Link className="nv" to="/">
+            inicio
+          </Link>
+          <Link className="nv" to="/category/Terror.js">
+            Terror
+          </Link>
+          <Link className="nv" to="/category/Accion.js">
+            Accion
+          </Link>
+          <Link className="nv" to="/category/Drama.js">
+            Drama
+          </Link>
+          <Link className="nv" to="/cart">
             <CartWidget />
           </Link>
         </ul>

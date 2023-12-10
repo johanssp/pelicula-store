@@ -5,9 +5,9 @@ const Item = ({ item }) => {
   return (
     <Link to={"/item/" + item.id} className="">
       <div className="">
-        <img src={item.imagen} className="" alt={item.nombre} />
+        <img src={item.imagen} className="" alt={item.pelicula} />
         <div>
-          <p children="">{item.nombre}</p>
+          <p children="">{item.pelicula}</p>
         </div>
       </div>
     </Link>

@@ -3,9 +3,9 @@ import React from "react";
 const ItemDetail = ({ item }) => {
   return (
     <div>
-      <div>
-        <img src={item.imagen} className="" alt={item.nombre} />
-        <h3> {item.nombre}</h3>
+      <div className="tarjeta1">
+        <img src={item.imagen} className="" alt={item.pelicula} />
+        <h2> {item.pelicula}</h2>
         <p> {item.genero}</p>
       </div>
     </div>

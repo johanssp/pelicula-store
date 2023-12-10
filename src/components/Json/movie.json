@@ -1,90 +1,90 @@
 [
   {
-    "id" : 1,
+    "id" :1,
     "pelicula": "evil dead",
    "genero": "terror",
    "imagen": "../components/imagen/terror 1.jpg"
   },
   {
-    "id" : 2,
+    "id" :2,
    "pelicula": "la noche del demonio",
    "genero": "terror",
    "imagen": "../components/imagen/terror2.webp"
   },
   {
-    "id" : 3,
+    "id" :3,
     "pelicula": "scream 6",
     "genero": "terror",
     "imagen": "../components/imagen/terror3.jpg"
   },
   {
-    "id" : 4,
+    "id" :4,
     "pelicula": "chuky el culto",
     "genero": "terror",
     "imagen": "../components/imagen/terror4.jpg"
   },
   {
-    "id" : 5,
+    "id" :5,
     "pelicula": "saw",
     "genero": "terror",
     "imagen": "../components/imagen/terror5saw.jpg"
   },
   {
-    "id" : 6,
+    "id" :6,
     "pelicula": "duro de matar",
     "genero": "accion",
     "imagen": "../components/imagen/accion1.jpg"
   },
   {
-    "id" : 7,
+    "id" :7,
     "pelicula": "rambo 1",
     "genero": "accion",
     "imagen": "../components/imagen/accion2stalone.jpg"
   },
   {
-    "id" : 8,
+    "id" :8,
     "pelicula": "rocky 2",
     "genero": "accion",
     "imagen": "../components/imagen/accion3rocky2.jpg"
   },
   {
-    "id" : 9,
+    "id" :9,
     "pelicula": "rompiendo las reglas",
     "genero": "accion",
     "imagen": "../components/imagen/accion4rompiendo.jpg"
   },
   {
-    "id" : 10,
+    "id" :10,
     "pelicula": "rapido y furiosos 1",
     "genero": " accion",
     "imagen": "../components/imagen/accion5rapido y furioso.jpg"
   },
   {
-    "id" : 11,
+    "id" :11,
     "pelicula": "el stand de los besos",
    "genero": "romance",
    "imagen": "../components/imagen/romance1standdelos besos.jpg"
   },
   {
-    "id" : 12,
+    "id" :12,
     "pelicula":"el stand de los besos 2",
    "genero": "romance",
    "imagen": "../components/imagen/romance2standbesos2.jpg"
   },
   {
-    "id" : 13,
+    "id" :13,
     "pelicula": "yo antes de ti",
    "genero": "romance",
    "imagen": "../components/imagen/romance3yoantesdeti.jpg"
   },
   {
-    "id" : 14,
+    "id" :14,
     "pelicula": "bajo la misma estrella",
    "genero": "romance",
    "imagen": "../components/imagen/romance4bajoestrella.jpg"
   },
   {
-    "id" : 15,
+    "id" :15,
     "pelicula": "10 cosas que odio de ti",
    "genero": "romance",
    "imagen": "../components/imagen/romance5 10 cosas que odio de ti.jpg"

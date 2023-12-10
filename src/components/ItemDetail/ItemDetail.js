@@ -4,7 +4,7 @@ const ItemDetail = ({ item }) => {
   return (
     <div>
       <div className="tarjeta1">
-        <img src={item.imagen} className="" alt={item.pelicula} />
+        <img src={item.imagen} className="productos" />
         <h2> {item.pelicula}</h2>
         <p> {item.genero}</p>
       </div>

@@ -20,13 +20,13 @@ const Navbar = () => {
           <Link className="nv" to="/">
             inicio
           </Link>
-          <Link className="nv" to="/category/Terror.js">
+          <Link className="nv" to="/category/terror">
             Terror
           </Link>
-          <Link className="nv" to="/category/Accion.js">
+          <Link className="nv" to="/category/accion">
             Accion
           </Link>
-          <Link className="nv" to="/category/Drama.js">
+          <Link className="nv" to="/category/romance">
             Drama
           </Link>
           <Link className="nv" to="/cart">

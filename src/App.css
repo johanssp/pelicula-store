@@ -1,14 +1,17 @@
 .productos {
   border-radius: 10px;
   width: 100%;
-  height: 280px;
+  height: 340px;
   object-fit: cover;
   background-size: cover;
 }
-.productos:hover {
-  transform: scale(1.2);
+.productos1 {
+  border-radius: 10px;
+  width: 700px;
+  height: 400px;
+  object-fit: cover;
+  background-size: cover;
 }
-
 /* inicio del header y del navegador*/
 .cabeza {
   display: flex;

@@ -3,91 +3,122 @@
     "id" :1,
     "pelicula": "evil dead",
    "genero": "terror",
-   "imagen": "./imagen/terror1.jpg"
+   "precio":2000,
+   "cantidad":20,
+   "imagen": "https://boletoscr.evildeadeldespertar.com/images/share.jpg"
+   
   },
   {
     "id" :2,
    "pelicula": "la noche del demonio",
    "genero": "terror",
-   "imagen": "./imagen/terror2.webp"
+   "precio":2500,
+   "cantidad":15,
+   "imagen": "https://mx.web.img3.acsta.net/c_310_420/pictures/18/09/27/22/55/3801936.jpg"
   },
   {
     "id" :3,
     "pelicula": "scream 6",
     "genero": "terror",
-    "imagen": "./imagen/terror3.jpg"
+    "precio":3000,
+    "cantidad":12,
+    "imagen": "https://static.standard.co.uk/2023/01/19/16/scream6.jpg?crop=8:5,smart&quality=75&auto=webp&width=1024"
   },
   {
     "id" :4,
     "pelicula": "chuky el culto",
     "genero": "terror",
-    "imagen": "../imagen/terror4.jpg"
+    "precio":2000,
+    "cantidad":25,
+    "imagen": "https://duplosite.files.wordpress.com/2017/10/cult-of-chucky.png"
   },
   {
     "id" :5,
     "pelicula": "saw",
     "genero": "terror",
-    "imagen": "../imagen/terror5saw.jpg"
+    "precio":3500,
+    "cantidad":30,
+    "imagen": "https://www.lavanguardia.com/andro4all/hero/2023/09/saw-x-estreno-en-streaming.png?width=768&aspect_ratio=16:9&format=nowebp"
   },
   {
     "id" :6,
     "pelicula": "duro de matar",
     "genero": "accion",
-    "imagen": "../imagen/accion1.jpg"
+    "precio":1500,
+    "cantidad":10,
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTentxFxFgyVwYzgKqc6CKyObpMHoO7X6qx18N5LNy2_drjUKy71cnn4LOeAoAza0TU48U&usqp=CAU"
   },
   {
     "id" :7,
     "pelicula": "rambo 1",
     "genero": "accion",
-    "imagen": "../imagen/accion2stalone.jpg"
+    "precio":1500,
+    "cantidad":18,
+    "imagen": "https://images.archambault.ca/images/PG/852/852684-gf.jpg?404=default&w=400"
   },
   {
     "id" :8,
     "pelicula": "rocky 2",
     "genero": "accion",
-    "imagen": "../imagen/accion3rocky2.jpg"
+    "precio":1500,
+    "cantidad":20,
+    "imagen": "https://parecidas.com/img_es/movie/thumb/c9/14680.jpg"
   },
   {
     "id" :9,
     "pelicula": "rompiendo las reglas",
     "genero": "accion",
-    "imagen": "../imagen/accion4rompiendo.jpg"
+    "precio":2000,
+    "cantidad":15,
+    "imagen": "https://es.web.img2.acsta.net/medias/nmedia/18/66/70/13/20147182.jpg"
   },
   {
     "id" :10,
     "pelicula": "rapido y furiosos 1",
     "genero": " accion",
-    "imagen": "../imagen/accion5rapido y furioso.jpg"
+    "precio":3000,
+    "cantidad":10,
+    "imagen": "https://play-lh.googleusercontent.com/BNmEw1TlON8udcnoaxSB0dskIi6IlluHhTFXObj_tXJ2Io28ZinhzMekZMzzxeZsY5zL"
   },
   {
     "id" :11,
     "pelicula": "el stand de los besos",
    "genero": "romance",
-   "imagen": "../imagen/romance1standdelos besos.jpg"
+   "precio":1500,
+   "cantidad":30,
+   "imagen": "https://img5.tokyvideo.com/videos/640/64077/previews/previews_0012_custom_1619133528.4586.jpg"
   },
   {
     "id" :12,
     "pelicula":"el stand de los besos 2",
    "genero": "romance",
-   "imagen": "../imagen/romance2standbesos2.jpg"
+   "precio":2000,
+   "cantidad":10,
+   "imagen": "https://akamai.sscdn.co/uploadfile/letras/playlists/3/8/f/7/38f76b04b10b40999e59d62b68fa1133.jpg"
   },
   {
     "id" :13,
     "pelicula": "yo antes de ti",
    "genero": "romance",
-   "imagen": "../imagen/romance3yoantesdeti.jpg"
+   "precio":1000,
+   "cantidad":25,
+   "imagen": "https://thediaryofbooks.files.wordpress.com/2016/05/imagine-dragons-not-today-from-me-before-you-soundtrack.jpg"
   },
   {
     "id" :14,
     "pelicula": "bajo la misma estrella",
    "genero": "romance",
-   "imagen": "../imagen/romance4bajoestrella.jpg"
+   "precio":2000,
+   "cantidad":40,
+   "imagen": "https://www.penguinlibros.com/cl/1775717/bajo-la-misma-estrella.jpg"
   },
   {
     "id" :15,
     "pelicula": "10 cosas que odio de ti",
    "genero": "romance",
-   "imagen": "../imagen/romance5 10 cosas que odio de ti.jpg"
+   "precio":4000,
+   "cantidad":20,
+   "imagen": "https://http2.mlstatic.com/D_NQ_NP_723819-MLU70377750207_072023-O.webp"
   }
   
 ]

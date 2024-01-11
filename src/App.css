@@ -204,6 +204,7 @@ p {
   height: 40px;
   justify-content: center;
   cursor: pointer;
+  color: #75fb4c;
 }
 .ingresar:active {
   background-color: rgb(168, 87, 244);
@@ -240,6 +241,7 @@ p {
   height: 40px;
   justify-content: center;
   cursor: pointer;
+  color: #75fb4c;
 }
 .registro:active {
   background-color: rgb(168, 87, 244);

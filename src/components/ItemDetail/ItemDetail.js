@@ -13,11 +13,11 @@ const ItemDetail = ({ item }) => {
   return (
     <div>
       <div className="">
-        <img src={item.imagen} className="productos1" />
-        <h2> {item.pelicula}</h2>
-        <p> {item.genero}</p>
-        <p>${item.precio}</p>
-        <p>Cantidad Disponibles : {item.cantidad}</p>
+        <img src={item.img} className="productos1" />
+        <h2> {item.title}</h2>
+        <p> {item.generyId}</p>
+        <p>${item.price}</p>
+        <p>Cantidad Disponibles : {item.stock}</p>
       </div>
       <div>
         {goToCart ? (

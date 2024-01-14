@@ -8,6 +8,8 @@ import CartWidget from "./components/CartWidget";
 import CartProvider from "./components/Context/CartContext";
 import LoaderComponent from "./components/LoaderComponent";
 import Cart from "./components/Cart/Cart";
+import CheckOut from "./components/Checkout/CheckOut";
+
 function App() {
   return (
     <div className="App">
@@ -20,6 +22,7 @@ function App() {
             <Route path={"/category/:id"} element={<ItemListContainer />} />
             <Route path={"/item/:id"} element={<ItemDetailContainer />} />
             <Route path={"/cart"} element={<Cart />} />
+            <Route path={"/checkout"} element={<CheckOut />} />
             <Route path={"*"} element={<Error />} />
           </Routes>
         </CartProvider>

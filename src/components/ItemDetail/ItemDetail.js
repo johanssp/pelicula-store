@@ -23,7 +23,7 @@ const ItemDetail = ({ item }) => {
         {goToCart ? (
           <Link to="/cart">terminar compra</Link>
         ) : (
-          <ItemCount stock={10} initial={0} onAdd={onAdd} />
+          <ItemCount stock={10} initial={1} onAdd={onAdd} />
         )}
       </div>
     </div>

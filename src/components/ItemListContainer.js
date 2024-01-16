@@ -30,8 +30,8 @@ const ItemListContainer = () => {
   }, [id]);
 
   return (
-    <div className="tarjeta1">
-      <div className="tarjeta">
+    <div className="">
+      <div className="">
         <ItemList item={item} />
       </div>
     </div>

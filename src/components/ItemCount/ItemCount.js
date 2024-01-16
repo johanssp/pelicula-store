@@ -15,7 +15,7 @@ const ItemCount = ({ initial, stock, onAdd }) => {
   }, [initial]);
 
   return (
-    <div className="registro">
+    <div className="tarjetas2">
       <button disabled={count <= 1} onClick={decrease} className="registro">
         -
       </button>

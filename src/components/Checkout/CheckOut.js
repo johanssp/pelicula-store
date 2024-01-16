@@ -87,7 +87,11 @@ const CheckOut = () => {
 
   return (
     <div>
-      <h2>Complete el formulario para poder comprar</h2>
+      <div className="tarjetas2">
+        <h2 className="subtitulo2">
+          Complete el formulario para poder comprar
+        </h2>
+      </div>
       <form className="formulario1" onSubmit={manejadorFormulario}>
         {cart.map((product) => (
           <div key={product.id}>
@@ -99,45 +103,45 @@ const CheckOut = () => {
           </div>
         ))}
         <div>
-          <label className="">Nombre</label>
+          <label className="mensaje-login">Ingrese su Nombre</label>
           <input
-            className=""
+            className="input"
             type="text"
             value={nombre}
             onChange={(e) => setNombre(e.target.value)}
           ></input>
         </div>
         <div>
-          <label className="">Apellido</label>
+          <label className="mensaje-login">Ingrese su Apellido</label>
           <input
-            className=""
+            className="input"
             type="text"
             value={apellido}
             onChange={(e) => setApeliido(e.target.value)}
           ></input>
         </div>
         <div>
-          <label className="">Telefono</label>
+          <label className="mensaje-login">Telefono</label>
           <input
-            className=""
+            className="input"
             type="number"
             value={telefono}
             onChange={(e) => setTelefono(e.target.value)}
           ></input>
         </div>
         <div>
-          <label className="">Email</label>
+          <label className="mensaje-login">Email</label>
           <input
-            className=""
+            className="input"
             type="email"
             value={email}
             onChange={(e) => setEmail(e.target.value)}
           ></input>
         </div>
         <div>
-          <label className="">Repetir Email</label>
+          <label className="mensaje-login">Repetir Email</label>
           <input
-            className=""
+            className="input"
             type="email"
             value={emailConfirmacion}
             onChange={(e) => setEmailConfirmacion(e.target.value)}
@@ -155,7 +159,9 @@ const CheckOut = () => {
           </p>
         )}
         <div>
-          <button type="submit">Enviar</button>
+          <button className="registro" type="submit">
+            Enviar
+          </button>
         </div>
       </form>
     </div>

@@ -5,11 +5,11 @@ const Item = ({ item }) => {
   console.log(item);
   return (
     <Link to={"/item/" + item.id} className="">
-      <div className="">
-        <div className="tarjetas1">
+      <div className="tarjetas1">
+        <div className="productos1">
           <img src={item.img} className="productos" />
-          <p children="">{item.title}</p>
-          <p>${item.price}</p>
+          <p className="titulo2">{item.title}</p>
+          <p className="titulo2">${item.price}</p>
         </div>
       </div>
     </Link>

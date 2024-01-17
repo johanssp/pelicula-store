@@ -165,9 +165,9 @@ p {
 }
 
 .tarjetas3 {
-  display: flex;
+  display:flex;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content:space-between;
   text-align: center;
 }
 

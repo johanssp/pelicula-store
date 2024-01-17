@@ -5,7 +5,7 @@ const Item = ({ item }) => {
   console.log(item);
   return (
     <Link to={"/item/" + item.id} className="">
-      <div className="tarjetas1">
+      <div className="tarjetas3">
         <div className="productos1">
           <img src={item.img} className="productos" />
           <p className="titulo2">{item.title}</p>

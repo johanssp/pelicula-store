@@ -1,5 +1,3 @@
-# Getting Started with Create React App
-
 # React js
 
 > Este es un proyecto relacionado a un e-commerce de pelicula via streamen que busca entretener a sus usuarios con variedades de contenidos de visualizacion como son las peliculas , series y anime.

@@ -14,7 +14,7 @@ const ItemDetail = ({ item }) => {
     <div>
       <div className="tarjetas2">
         <div className="productos2">
-          <img src={item.img} className="productos" />
+          <img src={item.img} className="producto" />
           <h2> {item.title}</h2>
           <p> {item.generyId}</p>
           <p>${item.price}</p>

@@ -6,8 +6,8 @@ const Item = ({ item }) => {
   return (
     <Link to={"/item/" + item.id} className="">
       <div className="tarjetas3">
-        <div className="productos1">
-          <img src={item.img} className="productos" />
+        <div className="producto">
+          <img src={item.img} className="productos4" />
           <p className="titulo2">{item.title}</p>
           <p className="titulo2">${item.price}</p>
         </div>
